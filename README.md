@@ -237,4 +237,4 @@ This repository serves as the official landing page for Social Monitor. The soft
 **Get the most recent version of Social Monitor today!**
 
 ---
-**Last updated:** 2026-10-27 22:41:09 UTC
+**Last updated:** 2026-10-28 01:51:04 UTC
